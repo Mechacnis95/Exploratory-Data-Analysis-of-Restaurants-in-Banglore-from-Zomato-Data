@@ -5,7 +5,7 @@ The basic idea of analyzing the Zomato dataset is to get a fair idea about the f
 
 
 Exploratory Data Analysis :
-**DATA PREPROCESSING**
+**DATA PRE-PROCESSING**
 * Checking data types and converting to desired data types.
 * Checking for null values.
 * Check for outlying characters
